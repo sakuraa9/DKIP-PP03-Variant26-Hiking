@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\bin\Debug\net10.0\ReviewSamples.exe
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\bin\Debug\net10.0\ReviewSamples.deps.json
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\bin\Debug\net10.0\ReviewSamples.runtimeconfig.json
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\bin\Debug\net10.0\ReviewSamples.dll
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\bin\Debug\net10.0\ReviewSamples.pdb
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.AssemblyInfo.cs
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.sourcelink.json
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.dll
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\refint\ReviewSamples.dll
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.pdb
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ReviewSamples.genruntimeconfig.cache
+C:\Users\User\source\repos\OlgaKraven\DKIP.PP.03-projectForWork\obj\Debug\net10.0\ref\ReviewSamples.dll
